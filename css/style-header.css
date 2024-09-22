@@ -1,0 +1,60 @@
+.circuloPerfil{
+  background-image:linear-gradient( to bottom, #000000 ,var(--color-fondo));
+  height: 100%;
+  width:105px;
+}
+
+.circuloPerfilGrande{
+  background-image:linear-gradient( to bottom, #000000 ,var(--color-fondo));
+  width:265px;
+  height: auto;
+}
+
+.Nombre{
+  color:  var(--color-titulos);
+  height: auto;
+  font-family: var(--fuente-titulos);
+  font-weight: 600;
+}
+
+.Trabajo{
+  color: var(--color-subtitulos-skills);
+  font-size: 0.80rem;
+  font-family: var(--fuente-titulos);
+  margin-top: -0.60rem;
+}
+
+.Paneles{
+  background-color: var(--color-panel);
+}
+
+i {
+  color: var(--color-subtitulos);
+}
+
+.TituloBrand{
+  color: var(--color-Brand);
+  font-size: 20px;
+  font-family: var(--fuente-titulos);
+  text-decoration: none;
+  transition-property: color;
+  transition-duration: 0.3s;
+}
+
+.TituloBrand:hover{
+  color:#36cde1;
+}
+
+.TitulosNav {
+  color: var(--color-Brand);
+  font-size: 16px;
+  font-family: var(--fuente-titulos);
+  margin: 0px 10px;
+  text-decoration: none;  
+  transition-property: color;
+  transition-duration: 0.3s;
+}
+
+.TitulosNav:hover{
+  color:#36cde1;
+}
