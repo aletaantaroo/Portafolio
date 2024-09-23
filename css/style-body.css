@@ -2,7 +2,6 @@
 
 :root{
 
-  /* Colores */
   --color-fondo: rgb(213, 208, 208);
   --color-titulos: #777777 ;
   --color-subtitulos:  #968888;
@@ -13,7 +12,6 @@
   /* Fuentes */
   --fuente-titulos: 'Poppins', sans-serif;
 
-  /* Paneles */
   --color-panel:  #000000 ;
 
   /* Color principal */
