@@ -3,11 +3,12 @@
 :root{
 
   --color-fondo: rgb(213, 208, 208);
-  --color-titulos: #777777 ;
+  --color-titulos: #3b3b3b ;
   --color-subtitulos:  #968888;
-  --color-titulos-skills: #6a6161 ;
+  --color-titulos-skills: #3b3b3b ;
   --color-subtitulos-skills:  #000000;
   --color-Brand: #d5d5d5;
+  --color-text-botones: #eaeaea;
 
   /* Fuentes */
   --fuente-titulos: 'Poppins', sans-serif;

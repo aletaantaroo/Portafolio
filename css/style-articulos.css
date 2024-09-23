@@ -43,6 +43,13 @@
   font-weight: 400;
 }
 
+.SubTitulosButtons{
+  color: var(--color-text-botones);
+  font-size: 0.75rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 400;
+}
+
 .Titulo{
   color: var(--color-titulos-skills);
   font-size: 1.25rem;

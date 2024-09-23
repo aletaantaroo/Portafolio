@@ -6,10 +6,15 @@
 
 .circuloPerfilGrande{
   background-image:linear-gradient( to bottom, #000000 ,var(--color-fondo));
-  width:265px;
-  height: auto;
+  width:225px;
+  height: 250px;
 }
 
+.sobreMiGrande{
+  background-image:linear-gradient( to bottom, #000000 ,var(--color-fondo));
+  width:225px;
+  height: auto;
+}
 .Nombre{
   color:  var(--color-titulos);
   height: auto;
